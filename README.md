@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/martyna.jurczak.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/martyna.jurczak.9/" height="30" width="40" /></a>
-<a href="https://discord.gg/Nausiz#0985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nausiz#0985" height="30" width="40" /></a>
+<a href="https://discord.gg/nausiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nausiz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
