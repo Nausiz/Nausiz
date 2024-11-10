@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martyna</h1>
 <h3 align="center">A passionate Unity Developer.</h3>
 
-- 🔭 I’m currently working on [UBOAT](https://store.steampowered.com/app/494840/UBOAT/)
-
 - 📫 How to reach me **martynaj1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
