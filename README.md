@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://discord.gg/nausiz" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" />
+    <img src="https://cdn.simpleicons.org/discord" alt="Discord" height="40" width="40" />
   </a>
 </p>
 
@@ -39,29 +39,29 @@
 
 <p align="center">
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/unity/000000/ffffff" alt="Unity" width="50" height="50"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DOTween-Game_Animation_Tool-2496ED?style=for-the-badge" alt="DOTween"/>
-  <img src="https://img.shields.io/badge/I2_Localization-Multilanguage-4CAF50?style=for-the-badge" alt="I2 Localization"/>
+  <img src="https://img.shields.io/badge/DOTween-Game_Animation-2496ED?style=flat-square&logo=unity&logoColor=white" alt="DOTween" height="28"/>
+  <img src="https://img.shields.io/badge/I2_Localization-Multilanguage-4CAF50?style=flat-square&logo=googletranslate&logoColor=white" alt="I2 Localization" height="28"/>
 </p>
 
 <h3 align="center">Version Control & Collaboration</h3>
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/git" alt="Git" width="50" height="50"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/github/000000/ffffff" alt="GitHub" width="50" height="50"/>
   </a>
   <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/gitlab" alt="GitLab" width="50" height="50"/>
   </a>
   <a href="https://www.plasticscm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/unity" alt="Plastic SCM" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/plasticscm" alt="Plastic SCM" width="50" height="50"/>
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/jira" alt="Jira" width="50" height="50"/>
@@ -86,10 +86,10 @@
 
 <p align="center">
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/tensorflow" alt="TensorFlow" width="50" height="50"/>
   </a>
   <a href="https://chatgpt.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/openai" alt="ChatGPT" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/openai/000000/ffffff" alt="ChatGPT" width="50" height="50"/>
   </a>
   <a href="https://claude.ai/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/anthropic" alt="Claude" width="50" height="50"/>
@@ -101,9 +101,8 @@
 <h3 align="center">Tools & Technologies</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DOTween-Game_Animation_Tool-2496ED?style=for-the-badge" alt="DOTween"/>
-  <img src="https://img.shields.io/badge/I2_Localization-Multilanguage-4CAF50?style=for-the-badge" alt="I2 Localization"/>
-  <img src="https://img.shields.io/badge/ChatGPT-AI_Assistant-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Claude-AI_Assistant-D97757?style=for-the-badge" alt="Claude"/>
+  <img src="https://img.shields.io/badge/DOTween-Game_Animation-2496ED?style=flat-square&logo=unity&logoColor=white" alt="DOTween" height="28"/>
+  <img src="https://img.shields.io/badge/I2_Localization-Multilanguage-4CAF50?style=flat-square&logo=googletranslate&logoColor=white" alt="I2 Localization" height="28"/>
+  <img src="https://img.shields.io/badge/ChatGPT-AI_Assistant-74AA9C?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" height="28"/>
+  <img src="https://img.shields.io/badge/Claude-AI_Assistant-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" height="28"/>
 </p>
-
