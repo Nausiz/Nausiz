@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martyna</h1>
-<h3 align="center">Unity Developer passionate about creating engaging gameplay experiences and scalable game systems.</h3>
+<h3 align="center">A passionate Unity Developer.</h3>
 
 <p align="center">
   🎮 Unity Developer • 💻 C# Programmer • 🚀 Game Development Enthusiast
@@ -41,12 +41,11 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="50" height="50"/>
   </a>
-  <a href="https://dotween.demigiant.com/" target="_blank" rel="noreferrer">
-    <img src="https://dotween.demigiant.com/_imgs/logo.png" alt="DOTween" width="50" height="50"/>
-  </a>
-  <a href="https://inter-illusion.com/assets/I2LocalizationManual/I2LocalizationManual.html" target="_blank" rel="noreferrer">
-    <img src="https://inter-illusion.com/assets/I2LocalizationManual/Resources/I2Logo.png" alt="I2 Localization" width="50" height="50"/>
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DOTween-Game_Animation_Tool-2496ED?style=for-the-badge" alt="DOTween"/>
+  <img src="https://img.shields.io/badge/I2_Localization-Multilanguage-4CAF50?style=for-the-badge" alt="I2 Localization"/>
 </p>
 
 <h3 align="center">Version Control & Collaboration</h3>
@@ -62,10 +61,10 @@
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="50" height="50"/>
   </a>
   <a href="https://www.plasticscm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/plastic-scm.svg" alt="Plastic SCM" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/unity" alt="Plastic SCM" width="50" height="50"/>
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/jira" alt="Jira" width="50" height="50"/>
   </a>
 </p>
 
@@ -73,13 +72,13 @@
 
 <p align="center">
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="Adobe Illustrator" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/adobeillustrator" alt="Adobe Illustrator" width="50" height="50"/>
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Adobe Photoshop" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/adobephotoshop" alt="Adobe Photoshop" width="50" height="50"/>
   </a>
   <a href="https://helpx.adobe.com/support/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/adobexd" alt="Adobe XD" width="50" height="50"/>
   </a>
 </p>
 
@@ -90,9 +89,21 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
   </a>
   <a href="https://chatgpt.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/openai" alt="ChatGPT" width="50" height="50"/>
   </a>
   <a href="https://claude.ai/" target="_blank" rel="noreferrer">
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" alt="Claude" width="50" height="50"/>
+    <img src="https://cdn.simpleicons.org/anthropic" alt="Claude" width="50" height="50"/>
   </a>
 </p>
+
+---
+
+<h3 align="center">Tools & Technologies</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DOTween-Game_Animation_Tool-2496ED?style=for-the-badge" alt="DOTween"/>
+  <img src="https://img.shields.io/badge/I2_Localization-Multilanguage-4CAF50?style=for-the-badge" alt="I2 Localization"/>
+  <img src="https://img.shields.io/badge/ChatGPT-AI_Assistant-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Claude-AI_Assistant-D97757?style=for-the-badge" alt="Claude"/>
+</p>
+
